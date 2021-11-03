@@ -10,7 +10,7 @@
             grid-template-rowss: repeat(4, 1fr);
         }
         .title{
-            font-size : 40px;
+            font-size : 30px;
             grid-column: 1 / 3;
             grid-row :1;
         }
