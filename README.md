@@ -1,7 +1,7 @@
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
-    <title>테스트 웹</title>
+    <title>웹</title>
     <style>
         .main{
             display:grid;
@@ -31,7 +31,7 @@
 <body>
     <div class="main">
         <div class="title">
-            <h1>세탁기 이용 모니터링 시스템</h1>
+            <h2>세탁기 이용 모니터링 시스템</h2>
         </div>
         <div class="list">
             <span>세탁기 리스트</span>
